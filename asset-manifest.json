@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Asian-beauty-salon-web/static/css/main.3b7ec4a8.css",
-    "main.js": "/Asian-beauty-salon-web/static/js/main.d4179d4b.js",
-    "static/js/453.eb96c474.chunk.js": "/Asian-beauty-salon-web/static/js/453.eb96c474.chunk.js",
-    "index.html": "/Asian-beauty-salon-web/index.html",
-    "main.3b7ec4a8.css.map": "/Asian-beauty-salon-web/static/css/main.3b7ec4a8.css.map",
-    "main.d4179d4b.js.map": "/Asian-beauty-salon-web/static/js/main.d4179d4b.js.map",
-    "453.eb96c474.chunk.js.map": "/Asian-beauty-salon-web/static/js/453.eb96c474.chunk.js.map"
+    "main.css": "/static/css/main.3b7ec4a8.css",
+    "main.js": "/static/js/main.ba685bea.js",
+    "static/js/453.eb96c474.chunk.js": "/static/js/453.eb96c474.chunk.js",
+    "index.html": "/index.html",
+    "main.3b7ec4a8.css.map": "/static/css/main.3b7ec4a8.css.map",
+    "main.ba685bea.js.map": "/static/js/main.ba685bea.js.map",
+    "453.eb96c474.chunk.js.map": "/static/js/453.eb96c474.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b7ec4a8.css",
-    "static/js/main.d4179d4b.js"
+    "static/js/main.ba685bea.js"
   ]
 }
