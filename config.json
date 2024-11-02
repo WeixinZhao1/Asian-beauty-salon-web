@@ -26,7 +26,7 @@
   "HomeHaircutWomen": "https://pic.superbed.cc/item/67259156fa9f77b4dc7a0d0a.jpg",
   "HomeHaircutKid": "https://pic.superbed.cc/item/67259155fa9f77b4dc7a0cec.jpg",
   "HomeHaircutSenior": "https://pic.superbed.cc/item/67259156fa9f77b4dc7a0d0a.jpg",
-  "discount": "https://pic.superbed.cc/item/67259383fa9f77b4dc7dd2fa.jpg",
+  "Discount": "https://pic.superbed.cc/item/67259383fa9f77b4dc7dd2fa.jpg",
   "BarberSwiper1": "https://pic.superbed.cc/item/6725907afa9f77b4dc79f146.jpg",
   "BarberSwiper2": "https://pic.superbed.cc/item/67259070fa9f77b4dc79f0dc.jpg",
   "BarberSwiper3": "https://pic.superbed.cc/item/67259068fa9f77b4dc79f0a7.jpg",
@@ -59,7 +59,8 @@
   "Address": "Address: 123 Barbershop St, City, Country",
   "Phone": "917-285-4241",
   "ServiceH1": "Our Services & Price list",
-  "BarbersH1": "Our Barbers",
+  "BarbersH1": "Our Stylists",
+  "BarbersH2": "Our Work",
   "GoogleMapAPI": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2930.6054423363025!2d-84.47846268749686!3d42.73324117104036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8822e920ca8cbe01%3A0x7be6b1912c338548!2sAsian%20Beauty%20Salon%2C%20Inc.!5e0!3m2!1sen!2sus!4v1729915077890!5m2!1sen!2sus",
   "NavigationLink": "https://maps.google.com/maps/dir//Asian+Beauty+Salon,+Inc.+611+E+Grand+River+Ave+%23200+East+Lansing,+MI+48823/@42.7332412,-84.4758824,16z/data=!4m5!4m4!1m0!1m2!1m1!1s0x8822e920ca8cbe01:0x7be6b1912c338548"
 }
